@@ -1,0 +1,10 @@
+# Работа с данными (таблицы, EDA, статистика)
+pandas==2.2.3
+# ML: модели, метрики, предобработка, train_test_split
+scikit-learn==1.5.2
+# Базовая графика: plt.subplots(), plt.savefig()
+matplotlib==3.9.2
+# Статистические графики поверх matplotlib (heatmap, histplot)
+seaborn==0.13.2
+# Сохранение обученной модели на диск (joblib.dump/load)
+joblib==1.4.2
